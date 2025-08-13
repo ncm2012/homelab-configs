@@ -8,7 +8,7 @@ This repository contains configuration backups for my Raspberry Pi homelab setup
 - **Location**: `pihole-cloudflare/`
 - **Description**: Pi-hole ad blocker with Cloudflare DoH for privacy
 - **Status**: Active on Pi
-- **Last Backup**: *[Updated by backup script]*
+- **Last Backup**: 2025-08-12 20:43:58
 
 ## Repository Structure
 
