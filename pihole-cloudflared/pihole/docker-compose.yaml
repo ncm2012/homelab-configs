@@ -13,7 +13,7 @@ services:
 
     environment:
       TZ: "America/New_York"
-      FTLCONF_webserver_api_password: "framefountaindresserbin"
+      WEBPASSWORD_FILE: "./pihole_password.txt"
       FTLCONF_dns_upstreams:  "172.30.9.2#5053;1.1.1.1;1.0.0.1"
       FTLCONF_dns_INTERFACE: eth0 # Pi-hole uses this as its LAN-facing interface inside the container
 
